@@ -1,0 +1,8 @@
+site_name: "cmpCF1"
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
